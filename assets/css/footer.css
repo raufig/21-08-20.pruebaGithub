@@ -1,0 +1,19 @@
+footer{
+    display: flex;
+    
+}
+footer ul{
+    display: flex;
+}
+footer ul li{
+    list-style:none;
+}
+footer ul li a img{
+    padding: 5px;
+    height: 20px;
+}
+footer h3{
+    padding-left:80px ;
+    align-items: flex-end;
+}
+
